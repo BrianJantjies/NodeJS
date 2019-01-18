@@ -1,1 +1,1 @@
-# NodeJS
+Introductory course material to NodeJS
